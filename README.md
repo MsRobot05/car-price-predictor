@@ -7,14 +7,20 @@ A machine learning web app that predicts used car prices in India.
 - Features: Insurance, Fuel Type, Transmission, KMs Driven, Ownership, Year, Mileage, Engine, Power, Torque, Seats
 - Target: Price in Indian Rupees (Lakhs)
 
+
+
 ## Model
 - Algorithm: Random Forest Regressor
 - R2 Score: 0.68
 - Features: 11
 
+
+
 ## Tech Stack
 - Backend: Python, Django
 - ML: Scikit-learn, Pandas, NumPy
+
+
 
 ## How to Run
 
