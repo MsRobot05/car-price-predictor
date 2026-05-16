@@ -9,6 +9,8 @@ A machine learning web app that predicts used car prices in India.
 
 
 
+
+
 ## Model
 - Algorithm: Random Forest Regressor
 - R2 Score: 0.68
@@ -39,6 +41,7 @@ A machine learning web app that predicts used car prices in India.
 
 5. Open browser at http://localhost:8000
 
+
 ## Project Structure
    car-price-predictor/
    train_model.py
@@ -51,6 +54,7 @@ A machine learning web app that predicts used car prices in India.
            views.py
            urls.py
            templates/
+
 
 ## Author
 Built as an end-to-end ML and Django project.
